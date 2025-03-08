@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-display-name",
+  "version": "1.0.0",
+  "description": "A simple Node.js project that displays a name using HTML.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
